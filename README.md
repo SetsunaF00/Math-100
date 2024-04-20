@@ -6,4 +6,4 @@ Aplikacja napisana w języku Python wykorzystująca framework PyQt5 do utworzeni
 ![image](https://github.com/SetsunaF00/Math-100/assets/83356069/1d83c5fb-68a9-4eeb-bd4f-530ad4dbf31d)
 
 
-Aby uruchomic aplikacje nalezy pobrac jej pliki oraz bibliotekę PyQt5 poprzez terminal a następnie wygenerowanie pliku .exe przy pomocy komenty "python setup.py build" znajdując sie w katalogu z plikami aplikacji.
+Aby uruchomic aplikacje nalezy pobrac jej pliki oraz bibliotekę PyQt5 poprzez terminal a następnie wygenerowanie plik .exe przy pomocy komenty "python setup.py build" znajdując sie w katalogu z plikami aplikacji.
